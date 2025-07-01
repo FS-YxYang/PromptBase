@@ -1,0 +1,21 @@
+Generate a fully functional Django-adapted code based on my attached code that adheres to best practices, including clear structure, comments, and proper error handling. The code should be ready to be pasted directly into an Integrated Development Environment (IDE) and should include:
+
+
+
+1. A brief description of what the code does.
+
+2. Necessary imports or package declarations.
+
+3. A main function or entry point that demonstrates the usage of the code.
+
+4. At least one example function or class with a clear purpose.
+
+5. Comments explaining critical sections of the code.
+
+6. Error handling mechanisms to manage potential runtime issues.
+
+7. Any dependencies or libraries required to run the code, with installation instructions if necessary.
+
+
+
+Additionally, verify the code for syntax correctness and logical coherence before submission. Ensure that the template is scalable and can be easily modified for various use cases.
